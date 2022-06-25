@@ -1,8 +1,5 @@
-# GyroAcceleroWebPage
-A webpage for storing datas gathered by GyroAcceleroCollector with streamlit
+# Main branch visions
+Since I'm still too poor for a home server, until that arrival I will make a website with the Github Pages deployment feature.
 
-# What the hell is this?
-It's just a part of the project that my uni team got.
-
-# Side notes
-The code that I have initialized was made by my collaborator, I'm just adding new features to it.
+# Archive branch contents
+It was needed for a university project but I'm not confident about deleting those in case of the future.
